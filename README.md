@@ -8,20 +8,13 @@ para levantar el servidor:
 
 instalar dependencias
 ```
-npm i
+bundle install
 ```
 
 Desarrollo
 ```
-npm run start:local
+rails s
 ```
-Producción
-```
-npm run start
-```
-
-para mejorar estilo de código configurar:<br>
-*prettier<br>
-*eslint
 
 para probar los endpoints ocupar la colección y el environment dentro de la carpeta postman
+ademas de las rutas para la web /users
