@@ -8,7 +8,7 @@ para levantar el servidor:
 
 instalar dependencias
 ```
-bundle install && yarn installg
+bundle install && yarn install
 ```
 
 Desarrollo
