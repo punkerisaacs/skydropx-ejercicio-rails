@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      uri: mongodb+srv://skydropx:skydropx@skydropx.a0t8h.mongodb.net/skydropx?authSource=admin&replicaSet=atlas-2whmct-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true
+      options:
+        server_selection_timeout: 5
